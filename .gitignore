@@ -1,0 +1,9 @@
+subapp-ui/node_modules/
+subapp-ui/dist/
+subapp-login/node_modules/
+subapp-login/dist/
+subapp-blog/node_modules/
+subapp-blog/dist/
+master/node_modules/
+master/dist/
+/node_modules
